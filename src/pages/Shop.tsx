@@ -9,7 +9,7 @@ function Shop() {
         <meta name='description' content='SHop our lastes products now.' />
         <link rel='canonical' href='/shop' />
       </Helmet>
-      <p>가게</p>
+      <p>가게샵</p>
     </div>
   );
 }
